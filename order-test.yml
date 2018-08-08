@@ -7,4 +7,4 @@ spring:
 server:
   port: 8090
 env:
-  test2
+  test3
